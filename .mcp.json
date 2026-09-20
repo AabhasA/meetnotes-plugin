@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "meetnotes": {
+      "url": "https://getmeetnotes.com/mcp",
+      "transport": "http"
+    }
+  }
+}

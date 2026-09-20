@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "meetnotes",
+  "displayName": "MeetNotes",
+  "version": "1.0.0",
+  "description": "Your MeetNotes meetings inside Claude: search them, read speaker-labelled transcripts, pull the open action items, export minutes as PDF or Word, and send the MeetNotes Notetaker into a Zoom, Google Meet or Teams call.",
+  "author": {
+    "name": "Ultragames Entertainment Private Limited",
+    "email": "support@getmeetnotes.com",
+    "url": "https://getmeetnotes.com"
+  },
+  "homepage": "https://getmeetnotes.com/mcp/",
+  "repository": "https://github.com/AabhasA/meetnotes-plugin",
+  "license": "MIT",
+  "keywords": [
+    "meetings",
+    "meeting-notes",
+    "transcription",
+    "minutes",
+    "action-items",
+    "notetaker",
+    "productivity"
+  ]
+}

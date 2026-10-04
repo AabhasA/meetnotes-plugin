@@ -71,6 +71,6 @@ Privacy policy: <https://getmeetnotes.com/privacy.html>
 
 <support@getmeetnotes.com> · [getmeetnotes.com/mcp](https://getmeetnotes.com/mcp/)
 
-Published by Ultragames Entertainment Private Limited. This repository holds the plugin
+Published by Samsonice (Ultragames Entertainment Private Limited, trading as Samsonice). This repository holds the plugin
 wrapper — the manifest, the MCP pointer and the skills — under MIT. The MeetNotes service
 itself is a hosted product.

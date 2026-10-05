@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "meetnotes",
+  "description": "MeetNotes for Claude: one plugin with the MeetNotes connector and six meeting skills.",
+  "owner": {
+    "name": "Samsonice",
+    "email": "support@getmeetnotes.com"
+  },
+  "plugins": [
+    {
+      "name": "meetnotes",
+      "description": "Your MeetNotes meetings inside Claude: search them, read speaker-labelled transcripts, pull the open action items, export minutes as PDF or Word, and send the MeetNotes Notetaker into a Zoom, Google Meet or Teams call.",
+      "version": "1.0.3",
+      "author": {
+        "name": "Samsonice",
+        "email": "support@getmeetnotes.com"
+      },
+      "homepage": "https://getmeetnotes.com/mcp/",
+      "category": "productivity",
+      "source": "./"
+    }
+  ]
+}

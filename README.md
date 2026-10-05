@@ -16,11 +16,19 @@ and action items with owners.
 /plugin install meetnotes@claude-community
 ```
 
-Or, to try it straight from this repository:
+Or install it straight from this repository, which is also a one-plugin marketplace:
 
 ```
-claude --plugin-dir ./meetnotes-plugin
+/plugin marketplace add AabhasA/meetnotes-plugin
+/plugin install meetnotes@meetnotes
 ```
+
+### For a whole company (Claude Enterprise)
+
+An admin can connect this repository as an organization marketplace in claude.ai
+(`https://github.com/AabhasA/meetnotes-plugin`), then set MeetNotes to *available*,
+*auto-install* or *required* for everyone or for one group. Each member still signs in
+to their own MeetNotes account and sees only their own meetings.
 
 ## Connect
 
